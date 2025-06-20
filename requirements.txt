@@ -1,6 +1,6 @@
 streamlit==1.26.0
-tensorflow==2.13.0
-torch==2.0.1
+tensorflow
+torch
 numpy
 pandas
 scikit-learn
