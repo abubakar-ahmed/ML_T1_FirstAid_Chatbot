@@ -1,5 +1,5 @@
 ---
-
+###   https://first-aid-chatbot.streamlit.app/
 # 🩹 First Aid Assistant Chatbot
 
 ## A Streamlit-based chatbot that provides immediate first aid guidance for common medical situations using BERT embeddings and deep learning classification.
@@ -136,5 +136,5 @@ first-aid-chatbot/
 ## Contact
 
 * **Author:** Abubakar Ahmed 
-* **GitHub:** [@abubaka-ahmed](https://github.com/abubakar-ahmed)
+* **GitHub:** [@abubakar-ahmed](https://github.com/abubakar-ahmed)
 * **Email:** [a.ahmed1@alustudent.com]
